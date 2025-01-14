@@ -11,15 +11,129 @@
     --margin-right-defaultontent: 5%;
 }
 
+/*@media (max-width: 576px) {*/
+
+/*}*/
+
+/* 2. Малые экраны и планшеты (576px до 768px) */
+@media (min-width: 576px) and (max-width: 768px) {
+     .container section {
+        /*box-sizing: revert;*/
+        height: 45vh;
+    }
+}
+
+/* 3. Планшеты (768px до 992px) */
+@media (min-width: 768px) and (max-width: 992px) {
+    section .labelBranding {
+        gap: 20px
+    }
+    .stayUp .contentStayUp {
+        width: 45em;
+    }
+
+    main {
+        padding-top: 12rem;
+    }
+
+    .contentMainPeople .findLabel {
+        transform: translate(1rem, 6.25rem);
+        .infoProductNumber .Info {
+            padding-left: 0;
+            gap: 0
+        }
+    }
+
+    .contentMainPeople .contentLogoStart {
+        background-image: url("../../Assets/image_part_002.jpg");
+        background-size: auto;
+        background-repeat: no-repeat;
+    }
+
+    footer .shopCoFooter {
+        top: 9rem
+    }
+
+     main .categoriesProduct ul {
+        padding: 0;
+    }
+
+     footer {
+         margin-top: 3rem;
+     }
+}
+
+/* 4. Ноутбуки (992px до 1200px) */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .contentLogoStart .firstStar {
+        transform: translate(26.5rem);
+    }
+    section .labelBranding {
+        gap: 30px
+    }
+
+    /*main {*/
+    /*    margin-top: 12em;*/
+    /*}*/
+
+
+    .stayUp .contentStayUp {
+        width: 50em;
+    }
+
+    .contentMainPeople .findLabel {
+        transform: translate(1rem, 6.25rem);
+        .infoProductNumber .Info {
+            padding-left: 0;
+            gap: 0
+        }
+    }
+
+    footer .shopCoFooter {
+        top: 7rem
+    }
+
+}
+
+/*!* 5. Большие экраны (от 1200px и выше) *!*/
+@media (min-width: 1200px) {
+
+   .contentMainPeople {
+       display: flex;
+       width: 100%;
+       gap: 5%;
+       justify-content: space-around;
+
+
+   }
+    .contentMainPeople .contentLogoStart {
+        width: 700px;
+
+    }
+
+
+
+    section .labelBranding {
+        gap: 80px
+    }
+
+    .contentMainPeople .findLabel {
+        transform: translate(2rem, 6.25rem);
+        .infoProductNumber .Info {
+            padding-left: 0;
+            gap: 0
+        }
+    }
+}
 
 body {
     display: inline-block;
     width: 100%;
 }
 
-.container {
-    display: inline-block;
-}
+/*.container {*/
+/*    display: inline-block;*/
+/*}*/
 
 header {
     display: flex;
@@ -52,8 +166,8 @@ header {
 }
 
 section {
-    display: block;
-    height: 116vh;
+    /*display: block;*/
+    height: 115vh;
     background-color: rgba(242, 240, 241, 1);
 }
 
@@ -91,7 +205,8 @@ section {
 }
 
 .contentMainPeople {
-    width: 100%;
+    /*width: 100%;*/
+    height: 662px;
     display: flex;
 
 }
@@ -145,6 +260,7 @@ section {
     display: inline-flex;
     align-content: center;
     gap: 2rem;
+    padding-left: 32px
 }
 
 .Info h3 {
@@ -173,12 +289,10 @@ section {
 
 .contentLogoStart {
     width: 50%;
-    /*border: 1px solid black;*/
-    display: inline-block;
-    height: 662px;
-    background-image: url("../../Assets/image_part_002.jpg");
+    display: block;
+    background-image: url("../../Assets/img.png");
     background-size: auto;
-    background-position: right;
+    /*background-position: center center;*/
     background-repeat: no-repeat;
 }
 
@@ -215,7 +329,6 @@ main {
 }
 
 
-
 .categoriesProduct {
     ul {
         display: flex;
@@ -234,6 +347,7 @@ main {
         align-content: center;
         align-items: center;
         border-radius: 20px;
+
         button {
             width: 100%;
             height: 100%;
@@ -247,7 +361,7 @@ main {
     }
 }
 
-ul li button:hover {
+.categoriesProduct ul li button:hover {
     width: 300px;
 }
 
@@ -286,6 +400,11 @@ footer {
     display: flex;
     flex-direction: column;
     gap: 1em;
+}
+
+input[type='email'] {
+    color: black;
+    font-weight: 400;
 }
 
 form input,
@@ -337,13 +456,15 @@ form button {
         font-size: 33.455px;
         font-weight: 700;
     }
-    p{
+
+    p {
         color: rgba(0, 0, 0, 0.60);
         font-size: 14px;
         font-weight: 400;
         line-height: 22px;
         width: 248px;
     }
+
     img {
         width: 148px;
         height: 28px;
@@ -352,9 +473,9 @@ form button {
 }
 
 
-
-.shopCoFooter ul li{
+.shopCoFooter ul li {
     align-items: flex-start;
+
     h3 {
         color: #000;
         font-weight: 500;
@@ -362,6 +483,7 @@ form button {
         letter-spacing: 3px;
         text-transform: uppercase;
     }
+
     button {
         border: none;
         color: rgba(0, 0, 0, 0.60);
@@ -371,14 +493,15 @@ form button {
     }
 }
 
-.lineItems{
+.lineItems {
+    width: 100%;
     display: flex;
     flex-direction: column;
     gap: 1em;
 }
 
-.line{
-    width: 1400px;
+.line {
+    /*width: 1400px;*/
     height: 1px;
     background-color: rgba(0, 0, 0, 0.10);
 }
@@ -388,7 +511,8 @@ form button {
     flex-direction: row;
     align-content: center;
     justify-content: space-between;
-    p{
+
+    p {
         color: rgba(0, 0, 0, 0.60);
         text-align: right;
 
