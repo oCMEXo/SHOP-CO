@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3174541f-b851-45ba-babf-2a3cbfc251db" name="Changes" comment="finish Login Page">
+      <change afterPath="$PROJECT_DIR$/SHOP CO/Assets/12321.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHOP CO/Assets/Frame (3).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHOP CO/Assets/Frame (5).svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHOP CO/Pages/Category/Category.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SHOP CO/Pages/Category/Categoty.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;oCMEXo&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/oCMEXo/SHOP-CO.git&quot;,
+    &quot;accountId&quot;: &quot;b8760afb-8ba7-42a5-a5d6-805f090fe658&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2qO84sPA2nAhx8eZoMK0agHKPrV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;22.11.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;22.10.2&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/artem/WebstormProjects/SHOP-CO/SHOP CO/Assets&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\artem\WebstormProjects\SHOP-CO\SHOP CO\Assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\artem\WebstormProjects\SHOP-CO\SHOP CO\Assets" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3174541f-b851-45ba-babf-2a3cbfc251db" name="Changes" comment="" />
+      <created>1734522072533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734522072533</updated>
+      <workItem from="1734522073842" duration="9390000" />
+      <workItem from="1735390625568" duration="8307000" />
+      <workItem from="1735428961318" duration="12266000" />
+      <workItem from="1735570558627" duration="288000" />
+      <workItem from="1735570997303" duration="34000" />
+      <workItem from="1735582499639" duration="55000" />
+      <workItem from="1735912316309" duration="2080000" />
+      <workItem from="1736852728253" duration="13803000" />
+    </task>
+    <task id="LOCAL-00001" summary="Start work SHOP.CO">
+      <option name="closed" value="true" />
+      <created>1734694077406</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734694077406</updated>
+    </task>
+    <task id="LOCAL-00002" summary="complete header, a more work Main">
+      <option name="closed" value="true" />
+      <created>1735412843668</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735412843668</updated>
+    </task>
+    <task id="LOCAL-00003" summary="finish HomePage">
+      <option name="closed" value="true" />
+      <created>1735494328365</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735494328365</updated>
+    </task>
+    <task id="LOCAL-00004" summary="finish Login Page">
+      <option name="closed" value="true" />
+      <created>1736893739899</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736893739899</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Start work SHOP.CO" />
+    <MESSAGE value="complete header, a more work Main" />
+    <MESSAGE value="finish HomePage" />
+    <MESSAGE value="finish Login Page" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish Login Page" />
+  </component>
+</project>
